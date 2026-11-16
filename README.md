@@ -8,7 +8,7 @@ Há 9 anos na AG Pickups e Multimarcas, uma loja de veículos com mais de 50 ano
 
 - **AG One** — ecossistema de gestão automotiva: estoque, integrador de anúncios em vários portais, funil de leads, financeiro, marketing e um atendente de IA. Em produção desde jul/2026. Sistema privado: estudo de caso e telas fictícias no [portfólio](https://silasfribeiro.github.io).
 - **Orbi** — notícias de IA em português, com comunidade e chat privado. [Abrir](https://orbi-44u0.onrender.com/)
-- **Verbo Vivo** — app de leitura bíblica que funciona offline. Em breve.
+- **Verbo Vivo** — app de leitura bíblica que funciona offline, com estudos por série e sincronização. [Abrir](https://verbo-vivo.pages.dev)
 - **Yume** — controle de estoque e vendas de um ateliê. [Ver a simulação](https://silasfribeiro.github.io/yume-demo/index.html)
 
 ## Estudando
