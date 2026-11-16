@@ -2,7 +2,7 @@
 
 **Aplicações com IA, nascidas de um problema real.**
 
-Há 9 anos na AG Pickups e Multimarcas, uma loja de veículos com mais de 50 anos. Vi onde a operação travava e conduzi, com IA, a construção do sistema que a loja usa hoje. Construo com Claude, ChatGPT e Base44; eu defino os requisitos, as regras de negócio e valido cada entrega.
+Desde 2017 na AG Pickups e Multimarcas, uma loja de veículos com mais de 50 anos. A loja vendia sem ter controle do próprio negócio: não sabia para onde iam os clientes, quanto investia em marketing, nem tinha base para o tráfego pago. Conduzi, com IA, a construção do sistema que resolve isso. Construo com Claude, ChatGPT e Base44; eu defino os requisitos, as regras de negócio e valido cada entrega.
 
 ## Projetos
 
